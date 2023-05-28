@@ -1,0 +1,15 @@
+/Users/Nawaraj/projects/games/tic-tac-toe/bin/Debug/net7.0/games
+/Users/Nawaraj/projects/games/tic-tac-toe/bin/Debug/net7.0/games.deps.json
+/Users/Nawaraj/projects/games/tic-tac-toe/bin/Debug/net7.0/games.runtimeconfig.json
+/Users/Nawaraj/projects/games/tic-tac-toe/bin/Debug/net7.0/games.dll
+/Users/Nawaraj/projects/games/tic-tac-toe/bin/Debug/net7.0/games.pdb
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.csproj.AssemblyReference.cache
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.AssemblyInfoInputs.cache
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.AssemblyInfo.cs
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.csproj.CoreCompileInputs.cache
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.dll
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/refint/games.dll
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.pdb
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/games.genruntimeconfig.cache
+/Users/Nawaraj/projects/games/tic-tac-toe/obj/Debug/net7.0/ref/games.dll
